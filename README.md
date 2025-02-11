@@ -1,4 +1,4 @@
-# vectorembeddings
+# vector-representation
 
 This project focuses on analyzing the frequency and structure of words and tokens in a text using Natural Language Processing (NLP) techniques. It explores various methods of vector representation, including One-Hot Encoding, Bag of Words (BoW), Term Frequency-Inverse Document Frequency (TF-IDF), and Term-Term Frequency Matrices. These methods are applied to a Portuguese poem to demonstrate how vector embeddings can be used to analyze textual data.
 
